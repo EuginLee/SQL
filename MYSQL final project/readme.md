@@ -15,5 +15,12 @@ ii) Create an ERD (Entity Relationship Diagram)
 
 iii) SQL queries (SELECT, AGG, JOINS)  
 - Q2a,b,c,d,e .sql
+   
+_______
+  
+Question paper:  
+C3219C Cousework Assessment.pdf  
 
+Submission report:  
+final.pdf
 
