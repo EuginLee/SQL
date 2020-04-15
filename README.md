@@ -1,5 +1,5 @@
 # SQL
-This depository is to showcase my SQL proficiency and recent projects  
+This depository is to showcase my recent SQL projects and some SQL shadow boxing (proficiency test).  
   
 1) Specialist Diploma in Business Analytics and Business Intelligence:  
 i) SQL final project (Score: A) - MYSQL project to create a database from scratch (based on client requirements) with a ERD diagram.
