@@ -4,7 +4,7 @@ This depository is to showcase my recent SQL projects and some SQL shadow boxing
 1) Specialist Diploma in Business Analytics and Business Intelligence:  
 i) SQL final project (Score: A) - MYSQL project to create a database from scratch (based on client requirements) with a ERD diagram.
   
-2) Some bedroom hustling in my free time:  
+2) SQL shadow boxing:  
 Hackerrank (@EuginL): SQL proficiency testing (Grade:5 -highest)
 
 ![_](images/SQL_badge.JPG)
